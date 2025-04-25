@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+matplolib
+seaborn
+sklearn
+tensorflow
+LSTM
+math
+GRU
